@@ -2,8 +2,9 @@
 
 Fair warning: This is spaghetti mixed with salad, and it hasn't been used much. I used Claude iteratively (plus ChatGPT and Gemini occasionally) to push my way through this. _Also,_ it wasn't made from first principles. Claude and I reverse-engineered a specific API's OpenAPI spec from [doc.machines.dev](https://docs.machines.dev), so who knows if it generalizes to any other API!
 
-
 Unless I go in and clean up the code, it may also be hard to learn useful lessons from. 
+
+You can read more about the fun I had building this at https://clutterstack.com/posts/2024-10-24-llm-observations.
 
 ## Reasons for building this
 
